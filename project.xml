@@ -1,20 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-   
- <update appID="EMP_ATTENDENCE"> 
-      
-  <version>3.0.0.0</version> 
-     
-   <url>https://drive.google.com/open?id=1xFM5ECNUpM6pGg45SVxKw0gmMwKlMpPZ</url> 
-    
-    <fileName>China_Hut_Emp.exe</fileName> 
-       
- <md5>731FE39920991AD55412E486B00FF488</md5>
-      
-  <description>Update: 27/17/2017:
-      
-  1. Test Update.</description> 
-<launchArgs></launchArgs> 
-  
-  </update> 
+    <update appID="TestApp"> 
+        <version>3.0.0.0</version> 
+        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/TestApp.exe</url> 
+        <fileName>TestApp.exe</fileName> 
+        <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
+        <description>Update: 27/12/2017:
+        1. Test Update.</description> 
+        <launchArgs></launchArgs> 
+    </update> 
 </sharpUpdate>
