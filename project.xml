@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="Employee_Attendence"> 
-        <version>4.0.0.0</version> 
+        <version>5.0.0.0</version> 
         <url>https://raw.githubusercontent.com/mianusman966/update/master/China_Hut_Emp.exe</url> 
         <fileName>China_Hut_Emp.exe</fileName> 
         <md5>5BBE788B2A996333CEE409FEDCEF04FB</md5>
