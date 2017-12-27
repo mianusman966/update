@@ -3,15 +3,15 @@
    
  <update appID="EMP_ATTENDENCE"> 
       
-  <version>1.0.0.0</version> 
+  <version>3.0.0.0</version> 
      
    <url>https://drive.google.com/open?id=1xFM5ECNUpM6pGg45SVxKw0gmMwKlMpPZ</url> 
     
     <fileName>China_Hut_Emp.exe</fileName> 
        
- <md5>AD36F93DD6BA172EA57C0A72DA372AAF</md5>
+ <md5>731FE39920991AD55412E486B00FF488</md5>
       
-  <description>Update: 23/17/2017:
+  <description>Update: 27/17/2017:
       
   1. Test Update.</description> 
 <launchArgs></launchArgs> 
