@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="TestApp"> 
-        <version>2.0.0.0</version> 
+        <version>5.0.0.0</version> 
         <url>https://raw.githubusercontent.com/mianusman966/update/master/TestApp.exe</url> 
         <fileName>TestApp.exe</fileName> 
         <md5>CF38BD530AA796C9B21F94E734B57D03</md5>
