@@ -1,12 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="China_Hut_Emp"> 
-        <version>5.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/mianusman966/update/master/China_Hut_Emp.exe</url> 
+        <version>3.5.0.0</version> 
+        <url>https://github.com/mianusman966/update/blob/master/China_Hut_Emp.exe</url> 
         <fileName>China_Hut_Emp.exe</fileName> 
-        <md5>CF38BD530AAlk796C9B21F94E734B57D03</md5>
-        <description>Update: 27/12/2017:
-        1. Test Update System.</description> 
+        <md5>A734EDAA6F87284687AFC0651A21B700</md5>
+        <description>Update: 05/03/2018:
+        1. Successfully Made Update System.
+        2. Some Changes In Employee Present Form.
+        3. Fixed Some Bugs</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
