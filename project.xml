@@ -1,6 +1,6 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-    <update appID="CH_Emp_Attendence"> 
+    <update appID="China_Hut_Emp"> 
         <version>3.5.0.0</version> 
         <url>https://raw.githubusercontent.com/mianusman966/update/master/China_Hut_Emp.exe</url> 
         <fileName>China_Hut_Emp.exe</fileName> 
