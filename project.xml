@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update appID="CH_Emp_Attendence"> 
         <version>3.6.0.0</version> 
-        <url>https://github.com/mianusman966/update/blob/master/China_Hut_Emp.exe?raw=true</url> 
+        <url>https://raw.githubusercontent.com/mianusman966/update/master/China_Hut_Emp.exe</url> 
         <fileName>China_Hut_Emp.exe</fileName> 
         <md5>A734EDAA6F87284687AFC0651A21B700</md5>
         <description>Update: 05/03/2018:
