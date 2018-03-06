@@ -5,21 +5,21 @@
         <url>https://raw.githubusercontent.com/mianusman966/update/master/China_Hut_Emp.exe</url> 
         <fileName>China_Hut_Emp.exe</fileName> 
         <md5>090A8183ABD08C9B71E8B95B38B62921</md5>
-        <description>
-06/03/2018: 10:58 AM
-  Version 3.5.1.0
-====================
-1: Add Icon Pic
-3: Fixed Some Bugs
-4: Improve Quality.
+<description>06/03/2018: 10:58 AM
+               Version 3.5.1.0
+             ====================
+             1: Add Icon Pic
+             3: Fixed Some Bugs
+             4: Improve Quality.
         
-05/03/2018: 08:31 PM
-  Version 3.5.0.0
-====================
-1. Successfully Made Update System.
-2. Some Changes In Employee Present Form.
-3. Fixed Some Bugs
-4: Improve Quality.        </description> 
+             05/03/2018: 08:31 PM
+               Version 3.5.0.0
+             ====================
+             1. Successfully Made Update System.
+             2. Some Changes In Employee Present Form.
+             3. Fixed Some Bugs
+             4: Improve Quality.        
+</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
