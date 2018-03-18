@@ -1,11 +1,22 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="China_Hut_Emp"> 
-        <version>3.5.2.0</version> 
+        <version>4.0.0.0</version> 
         <url>https://raw.githubusercontent.com/mianusman966/update/master/China_Hut_Emp.exe</url> 
         <fileName>China_Hut_Emp.exe</fileName> 
-        <md5>D94122FB36C7A53708C589A38B39699D</md5>
-<description>06/03/2018: 11:17 AM
+        <md5>2D6C4736FE8388F2A628A9D2CCBEF916</md5>
+<description>18/03/2018: 05:00 PM
+               Version 4.0.0.0
+             ====================
+             1: Some Visual Changes
+             3: Fixed Some Bugs
+             4: Improve Quality
+             5: Change Application Icon
+             6: Change Company logo
+             7: Login Secreen Changes
+             8: Absent Form Changes
+    
+             06/03/2018: 11:17 AM
                Version 3.5.2.0
              ====================
              1: Add Icon Pic
