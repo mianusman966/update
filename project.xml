@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="China_Hut_Emp"> 
-        <version>4.0.0.0</version> 
+        <version>4.0.1.0</version> 
         <url>https://raw.githubusercontent.com/mianusman966/update/master/China_Hut_Emp.exe</url> 
         <fileName>China_Hut_Emp.exe</fileName> 
         <md5>2D6C4736FE8388F2A628A9D2CCBEF916</md5>
