@@ -1,11 +1,18 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="China_Hut_Emp"> 
-        <version>4.1.1.0</version> 
+        <version>4.2.0.0</version> 
         <url>https://raw.githubusercontent.com/mianusman966/update/master/China_Hut_Emp.exe</url> 
         <fileName>China_Hut_Emp.exe</fileName> 
         <md5>63F9563BF45F4F775E2EE5A1BB12CF69</md5>
-<description>28/03/2018: 12:30 PM
+<description>10/04/2018: 10:00 PM
+  Version 4.2.0.0
+====================
+1: Employee Search Form Key Change to F3
+2: Fixed Some Bugs
+3: Improve Quality.
+    
+28/03/2018: 12:30 PM
   Version 4.1.1.0
 ====================
 1: Edit Attendence Manul Form Changes
