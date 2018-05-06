@@ -1,11 +1,20 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="China_Hut_Emp"> 
-        <version>4.2.0.0</version> 
+        <version>4.3.1.0</version> 
         <url>https://raw.githubusercontent.com/mianusman966/update/master/China_Hut_Emp.exe</url> 
         <fileName>China_Hut_Emp.exe</fileName> 
-        <md5>7AB18C36042C8AEE2D9E6FE73E50C219</md5>
-<description>10/04/2018: 10:00 PM
+        <md5>24A501790A084AAD114BE2683319ECB9</md5>
+<description>06/05/2018: 07:30 PM
+  Version 4.3.1.0
+====================
+1: Employee Time Average Report New
+2: Changes Report Form to Metro Form
+3: Data Backup Update Setting
+4: Fixed Some Bugs
+5: Improve Quality.
+    
+10/04/2018: 10:00 PM
   Version 4.2.0.0
 ====================
 1: Employee Search Form Key Change to F3
