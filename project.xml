@@ -1,11 +1,20 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="China_Hut_Emp"> 
-        <version>4.4.1.0</version> 
+        <version>4.5.0.0</version> 
         <url>https://raw.githubusercontent.com/mianusman966/update/master/China_Hut_Emp.exe</url> 
         <fileName>China_Hut_Emp.exe</fileName> 
-        <md5>C9373B92A7972F4F845F984456C6674B</md5>
-<description>16/05/2018: 04:30 PM
+        <md5>F22B5E31ADB0DE09DB59B4F2BD6353E3</md5>
+<description>30/05/2018: 02:30 PM
+  Version 4.5.0.0
+====================
+1: Add New Employee PayRoll Module
+2: Change Some Settings
+3: Change Some Security
+4: Fixed Some Bugs
+5: Improve Quality.
+    
+16/05/2018: 04:30 PM
   Version 4.4.1.0
 ====================
 1: Change Paramater View
