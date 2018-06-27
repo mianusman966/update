@@ -5,7 +5,16 @@
         <url>https://raw.githubusercontent.com/mianusman966/update/master/China_Hut_Emp.exe</url> 
         <fileName>China_Hut_Emp.exe</fileName> 
         <md5>F22B5E31ADB0DE09DB59B4F2BD6353E3</md5>
-<description>30/05/2018: 02:30 PM
+<description>27/06/2018: 10:00 PM
+  Version 4.5.5.0
+====================
+1: Add Manual Date Picker in Absent Form
+2: Add CPU & RAM Usages Viewer in Present Form
+3: Print Directly Emp Pay Role Slip on Button Click
+4: Fixed Some Bugs
+5: Improve Quality.
+    
+30/05/2018: 02:30 PM
   Version 4.5.0.0
 ====================
 1: Add New Employee PayRoll Module
