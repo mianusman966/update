@@ -1,11 +1,20 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="China_Hut_Emp"> 
-        <version>4.6.0.0</version> 
+        <version>4.6.1.0</version> 
         <url>https://raw.githubusercontent.com/mianusman966/update/master/China_Hut_Emp.exe</url> 
         <fileName>China_Hut_Emp.exe</fileName> 
-        <md5>58D67F04044F639DF26279CDB36CB854</md5>
-<description>23/07/2018: 09:00 PM
+        <md5>689E27DF3E98A5EFB650D92BED9F830D</md5>
+<description>24/07/2018: 12:30 PM
+  Version 4.6.1.0
+====================
+1: Fixed some bug in previous update model
+2: Some Changes in Attendence Form
+3: Add view button in Emp PayRoll Form
+4: Fixed Some Bugs
+5: Improve Quality.
+    
+23/07/2018: 09:00 PM
   Version 4.6.0.0
 ====================
 1: Add New Model in Going Attendence
