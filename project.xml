@@ -1,11 +1,28 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="China_Hut_Emp"> 
-        <version>4.6.1.0</version> 
+        <version>4.7.5.0</version> 
         <url>https://raw.githubusercontent.com/mianusman966/update/master/China_Hut_Emp.exe</url> 
         <fileName>China_Hut_Emp.exe</fileName> 
-        <md5>689E27DF3E98A5EFB650D92BED9F830D</md5>
-<description>24/07/2018: 12:30 PM
+        <md5>BA948C6E667708B5BAD969C6084C44B2</md5>
+<description>19/08/2018: 02:30 PM
+  Version 4.7.5.0
+====================
+1: Add Employee Daily Exp Calculate on Present Form
+2: Update Some Features
+3: Fixed Some Bugs
+4: Improve Quality.
+
+08/08/2018: 10:00 PM
+  Version 4.7.0.0
+====================
+1: Update Employee Pay Roll Form
+2: Add New Employee Check Box For 1st Attendence
+3: Add Memory Optimization Tool
+4: Fixed Some Bugs
+5: Improve Quality.
+    
+24/07/2018: 12:30 PM
   Version 4.6.1.0
 ====================
 1: Fixed some bug in previous update model
